@@ -2,7 +2,7 @@
 
 This is a **Streamlit** application that provides a dashboard for visualizing imaginary contact analytics. It processes and displays data from a CSV file
 
-[On Streamlit Cloud](https://contacs-dashboard-rb.streamlit.app/)
+[On Streamlit Cloud](https://contacts-dashboard-rb.streamlit.app/)
 
 ## Usage
 
