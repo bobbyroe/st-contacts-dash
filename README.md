@@ -18,6 +18,8 @@ This is a **Streamlit** application that provides a dashboard for visualizing im
 ## Dependencies
 - [Streamlit](https://streamlit.io/)
 - [Pandas](https://pandas.pydata.org/)
+- [plotly](https://plotly.com/python/)
+- [PIL](https://python-pillow.github.io/)
 
 ## License
 
